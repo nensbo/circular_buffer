@@ -1,0 +1,16 @@
+# Output products list for <kruznibafer>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
+kruznibafer.asy
+kruznibafer.gise
+kruznibafer.ngc
+kruznibafer.sym
+kruznibafer.v
+kruznibafer.veo
+kruznibafer.vhd
+kruznibafer.vho
+kruznibafer.xco
+kruznibafer.xise
+kruznibafer_flist.txt
+kruznibafer_xmdf.tcl

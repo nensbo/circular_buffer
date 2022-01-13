@@ -1,0 +1,28 @@
+Command line:
+   bafer_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56191
+
+Sat Jun 15 23:22:05 2019
+
+
+ Elaboration Time: 0.203125 sec
+
+ Current Memory Usage: 853.934 Meg
+
+ Total Signals          : 169
+ Total Nets             : 280
+ Total Signal Drivers   : 56
+ Total Blocks           : 18
+ Total Primitive Blocks : 11
+ Total Processes        : 40
+ Total Traceable Variables  : 214
+ Total Scalar Nets and Variables : 1706
+
+ Total Simulation Time: 0.28125 sec
+
+ Current Memory Usage: 853.934 Meg
+
+Sat Jun 15 23:22:16 2019
+

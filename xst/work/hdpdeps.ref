@@ -1,0 +1,17 @@
+V3 9
+FL "C:/Users/HP EliteBook 840 G1/poli/zad/bafer.vhd" 2019/06/12.22:14:49 M.63c
+EN work/bafer 1642108683 FL "C:/Users/HP EliteBook 840 G1/poli/zad/bafer.vhd" \
+      PB ieee/std_logic_1164 1277201847 PB ieee/NUMERIC_STD 1277201848 \
+      PB ieee/STD_LOGIC_UNSIGNED 1277201849
+AR work/bafer/Behavioral 1642108684 \
+      FL "C:/Users/HP EliteBook 840 G1/poli/zad/bafer.vhd" EN work/bafer 1642108683 \
+      CP work/kruzni
+FL "C:/Users/HP EliteBook 840 G1/poli/zad/ipcore_dir/kruzni.vhd" 2022/01/13.15:56:56 M.63c
+EN work/kruzni 1642108681 \
+      FL "C:/Users/HP EliteBook 840 G1/poli/zad/ipcore_dir/kruzni.vhd" \
+      PB ieee/std_logic_1164 1277201847
+AR work/kruzni/kruzni_a 1642108682 \
+      FL "C:/Users/HP EliteBook 840 G1/poli/zad/ipcore_dir/kruzni.vhd" \
+      EN work/kruzni 1642108681
+FL "C:/Users/HP EliteBook 840 G1/zad/bafer.vhd" 2019/05/31.17:27:07 M.63c
+FL "C:/Users/HP EliteBook 840 G1/zad/ipcore_dir/kruzni.vhd" 2019/05/28.15:30:24 M.63c
